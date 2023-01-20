@@ -5,3 +5,5 @@
 5. git push [re_link] [branch_name]
 6. git reset – удалить файл добавленный add
 7. git diff – показывает изменения
+8. git branch – показывает ветки и создает
+9. git checkout – переключает между ветками
